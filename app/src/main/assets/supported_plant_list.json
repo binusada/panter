@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Whale Fin Sansevieria",
+    "latinName": "Sansevieria trifasciata",
+    "light": "Low to bright indirect light",
+    "water": "Every 2–3 weeks",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.32.39.png?alt=media&token=7d1461f6-3855-4a95-bf9d-7a4287dfab89",
+    "description": "A sculptural snake plant resembling a whale’s fin. Extremely low maintenance and drought tolerant."
+  },
+  {
+    "name": "Anthurium 'Veitchii'",
+    "latinName": "Anthurium veitchii",
+    "light": "Bright indirect light",
+    "water": "Keep soil lightly moist",
+    "CareLevel": "Medium",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.32.24.png?alt=media&token=cf9d0522-30e0-4d18-bff0-2df2695cb0ce",
+    "description": "Also called the King Anthurium, featuring oversized dramatic leaves and requiring high humidity."
+  },
+  {
+    "name": "Dieffenbachia",
+    "latinName": "Dieffenbachia spp.",
+    "light": "Partial to bright indirect light",
+    "water": "Every 10 days",
+    "CareLevel": "Medium",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.32.10.png?alt=media&token=4d822ad3-a855-4ff0-834e-a6aefa949d34",
+    "description": "Lush, glossy foliage plant that also acts as a natural air purifier."
+  },
+  {
+    "name": "Alocasia ‘Tiny Dancer’",
+    "latinName": "Alocasia spp.",
+    "light": "Bright indirect light",
+    "water": "Keep soil lightly moist",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.31.57.png?alt=media&token=a9667279-31b5-448b-ab47-48ec75fda5a9",
+    "description": "Tall, elegant alocasia with slender stems that sway gently."
+  },
+  {
+    "name": "Geogenanthus",
+    "latinName": "Geogenanthus ciliatus",
+    "light": "Indirect light",
+    "water": "Water when soil is fully dry",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.31.42.png?alt=media&token=ce9fd1dc-5e6b-463a-91ec-9c64bab6b061",
+    "description": "Compact plant with glossy purple-tinged leaves, ideal for contrast."
+  },
+  {
+    "name": "Pink Polka Dot Plant",
+    "latinName": "Hypoestes phyllostachya",
+    "light": "Moderate to bright indirect light",
+    "water": "Keep soil evenly moist",
+    "CareLevel": "Medium",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.31.21.png?alt=media&token=2c78546a-307f-49e8-9ea6-770130427e6d",
+    "description": "Colorful compact plant that thrives in high humidity environments."
+  },
+  {
+    "name": "Alocasia Melo",
+    "latinName": "Alocasia melo",
+    "light": "Bright indirect light",
+    "water": "Moderate watering",
+    "CareLevel": "Medium",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.31.05.png?alt=media&token=ee2fad22-df17-451d-a2a5-df307cbfc5f4",
+    "description": "Textured dark leaves with a bold architectural presence."
+  },
+  {
+    "name": "Norfolk Pine",
+    "latinName": "Araucaria heterophylla",
+    "light": "Medium light",
+    "water": "Water sparingly",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.30.47.png?alt=media&token=35a55203-1b52-4417-8ded-d2ecc55d0c97",
+    "description": "Miniature evergreen tree often used indoors during winter."
+  },
+  {
+    "name": "Calathea ‘White Fusion’",
+    "latinName": "Calathea spp.",
+    "light": "Bright indirect light",
+    "water": "Keep soil evenly moist",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.30.33.png?alt=media&token=8f5bc4f7-345a-42fe-b147-6283c7528af0",
+    "description": "Prayer plant with stunning green and white variegated leaves."
+  },
+  {
+    "name": "Bay Laurel Tree",
+    "latinName": "Laurus nobilis",
+    "light": "Bright light",
+    "water": "When topsoil dries",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.30.09.png?alt=media&token=cd93db58-8dda-4b1f-93fe-e43d15d8957c",
+    "description": "Evergreen herb tree with glossy leaves, suitable for indoor pots."
+  },
+  {
+    "name": "Wintergreen Berries",
+    "latinName": "Gaultheria procumbens",
+    "light": "Indirect light",
+    "water": "Keep soil moist",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.29.52.png?alt=media&token=7e9f84e1-aeb5-4a22-b219-5ce633c1967f",
+    "description": "Cold-hardy plant with mint-scented leaves and seasonal berries."
+  },
+  {
+    "name": "Christmas Cactus",
+    "latinName": "Schlumbergera spp.",
+    "light": "Dappled indirect light",
+    "water": "Regular watering",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.29.34.png?alt=media&token=e2f82021-8e2f-4b78-a777-c63586dcdec1",
+    "description": "A jungle cactus that blooms during winter months."
+  },
+  {
+    "name": "Moonshine Snake Plant",
+    "latinName": "Sansevieria trifasciata ‘Moonshine’",
+    "light": "Low to medium indirect light",
+    "water": "Every few weeks",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.29.14.png?alt=media&token=2c4b8086-a6a0-40e5-976b-51c6d6ed322f",
+    "description": "Silvery-leaved snake plant with exceptional drought tolerance."
+  },
+  {
+    "name": "Purple Passion Plant",
+    "latinName": "Gynura aurantiaca",
+    "light": "Medium direct light",
+    "water": "Water regularly",
+    "CareLevel": "Medium",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.28.57.png?alt=media&token=57c4c5ac-cefe-4758-8f57-7d68295abd5c",
+    "description": "Velvety leaves with vibrant purple accents."
+  },
+  {
+    "name": "Red Chinese Evergreen",
+    "latinName": "Aglaonema spp.",
+    "light": "Bright indirect light",
+    "water": "Regular watering",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.28.36.png?alt=media&token=27711910-31cc-4df9-8462-8a91acd340b4",
+    "description": "Variegated red and green foliage with occasional white blooms."
+  },
+  {
+    "name": "Bird’s Nest Fern",
+    "latinName": "Asplenium nidus",
+    "light": "Bright indirect light",
+    "water": "When topsoil dries",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.28.15.png?alt=media&token=150119a9-c960-4bd0-b6b7-6ec21bce754c",
+    "description": "Glossy-leaved fern that retains humidity well."
+  },
+  {
+    "name": "Zebra Plant",
+    "latinName": "Haworthiopsis fasciata",
+    "light": "Bright indirect light",
+    "water": "Every few weeks",
+    "CareLevel": "Easy to Medium",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.27.23.png?alt=media&token=07db1f76-522f-4c04-991a-ab956dc3fcd6",
+    "description": "Small striped succulent ideal for windowsills."
+  },
+  {
+    "name": "Majesty Palm",
+    "latinName": "Ravenea rivularis",
+    "light": "Bright indirect light",
+    "water": "Keep soil evenly moist",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.27.01.png?alt=media&token=1f23b7fd-9290-4ceb-ac83-9046f7d5cd22",
+    "description": "Tall palm that adds height and improves air quality."
+  },
+  {
+    "name": "Prayer Plant ‘Beauty Kim’",
+    "latinName": "Maranta leuconeura",
+    "light": "Low to indirect light",
+    "water": "Keep soil moist",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.26.41.png?alt=media&token=539d6ed3-c052-42a5-8b53-b5a872f41d73",
+    "description": "Leaves fold upward at night, resembling praying hands."
+  },
+  {
+    "name": "Monstera Swiss Cheese Plant",
+    "latinName": "Monstera adansonii",
+    "light": "Bright indirect light",
+    "water": "Weekly watering",
+    "CareLevel": "Medium",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.26.21.png?alt=media&token=a415c90b-0dcf-46ea-a191-f5bb972bdf0e",
+    "description": "Iconic perforated leaves that grow large with care."
+  },
+  {
+    "name": "Blue Star Fern",
+    "latinName": "Phlebodium aureum",
+    "light": "Medium to bright indirect light",
+    "water": "Occasional watering",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.26.03.png?alt=media&token=1a1e8d7f-89e2-4f45-bc91-6024320a8f57",
+    "description": "Feathery blue-green foliage ideal for hanging planters."
+  },
+  {
+    "name": "Boston Fern",
+    "latinName": "Nephrolepis exaltata",
+    "light": "Low light",
+    "water": "Water when soil dries",
+    "CareLevel": "Intermediate",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.25.38.png?alt=media&token=41f2eeda-3ea6-481e-8a27-b1c968563136",
+    "description": "Humidity-loving fern perfect for bathrooms."
+  },
+  {
+    "name": "Algerian Ivy",
+    "latinName": "Hedera canariensis",
+    "light": "Low light",
+    "water": "Consistent watering",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.25.20.png?alt=media&token=87fed757-ec3f-4e5a-8de3-6ba84c8094d3",
+    "description": "Fast-growing trailing ivy requiring regular pruning."
+  },
+  {
+    "name": "Tricolor Hoya ‘Krimson Queen’",
+    "latinName": "Hoya carnosa",
+    "light": "Bright indirect light",
+    "water": "Every 1–2 weeks",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.24.59.png?alt=media&token=a8585356-ca42-473f-bceb-b21236c6842f",
+    "description": "Waxy trailing plant with white, green, and pink foliage."
+  },
+  {
+    "name": "Corkscrew Rush",
+    "latinName": "Juncus effusus ‘Spiralis’",
+    "light": "Indirect light",
+    "water": "Keep soil moist",
+    "CareLevel": "Intermediate",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.24.28.png?alt=media&token=bc74d191-15c3-4a51-be74-70e1d1c9cc20",
+    "description": "Unique corkscrew-shaped stems with strong visual impact."
+  },
+  {
+    "name": "Olive Tree",
+    "latinName": "Olea europaea",
+    "light": "Bright light",
+    "water": "Moderate watering",
+    "CareLevel": "Intermediate",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.24.01.png?alt=media&token=f1f7615a-6423-49d5-a3d8-7bc84f9ca29a",
+    "description": "Mediterranean tree suitable for sunny indoor spaces."
+  },
+  {
+    "name": "Golden Pothos",
+    "latinName": "Epipremnum aureum",
+    "light": "Partial to bright indirect light",
+    "water": "When soil is mostly dry",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.23.41.png?alt=media&token=427d0c52-3ee4-47da-8190-be2a2fcc594e",
+    "description": "Hardy trailing plant that is easy to propagate."
+  },
+  {
+    "name": "ZZ Plant",
+    "latinName": "Zamioculcas zamiifolia",
+    "light": "Low to bright indirect light",
+    "water": "Infrequent watering",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.23.16.png?alt=media&token=a0e31a7b-0e12-4af5-b8b9-894098c99c69",
+    "description": "Extremely drought tolerant and low maintenance."
+  },
+  {
+    "name": "Rubber Plant",
+    "latinName": "Ficus elastica",
+    "light": "Bright indirect light",
+    "water": "When soil is dry",
+    "CareLevel": "Intermediate",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.22.47.png?alt=media&token=9ccabc63-7857-43da-9cc4-10d9d1dd1e0a",
+    "description": "Large glossy leaves and excellent air-purifying qualities."
+  },
+  {
+    "name": "String of Pearls",
+    "latinName": "Senecio rowleyanus",
+    "light": "Bright indirect light",
+    "water": "Keep soil lightly moist",
+    "CareLevel": "Easy to Intermediate",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.22.29.png?alt=media&token=b2ac1a8f-d938-4652-90a9-b150ac5c82ab",
+    "description": "Trailing succulent with pearl-like leaves."
+  },
+  {
+    "name": "Pilea",
+    "latinName": "Pilea peperomioides",
+    "light": "Bright indirect light",
+    "water": "Drench and dry",
+    "CareLevel": "Intermediate",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.22.08.png?alt=media&token=5cf158a5-85e5-4903-8cbd-e2bb3a02f9d8",
+    "description": "Round coin-shaped leaves with modern aesthetic appeal."
+  },
+  {
+    "name": "Fiddle Leaf Fig Tree",
+    "latinName": "Ficus lyrata",
+    "light": "Bright indirect light",
+    "water": "When top inch of soil is dry",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.21.48.png?alt=media&token=4a0c3b0c-ac38-477a-9d98-d12950646da2",
+    "description": "Popular statement plant with large violin-shaped leaves."
+  },
+  {
+    "name": "Sweetheart Waxplant",
+    "latinName": "Hoya kerrii",
+    "light": "Bright direct light",
+    "water": "Every 3–4 weeks",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.21.28.png?alt=media&token=7b5d78cd-31eb-4c40-9298-cefa03a68c06",
+    "description": "Heart-shaped succulent often grown as a single cutting."
+  },
+  {
+    "name": "Anthurium",
+    "latinName": "Anthurium andraeanum",
+    "light": "Bright indirect light",
+    "water": "Every 1–2 weeks",
+    "CareLevel": "Intermediate",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.21.07.png?alt=media&token=f3f35c6c-066f-4acc-b244-6acdc3a53760",
+    "description": "Waxy heart-shaped flowers with striking color."
+  },
+  {
+    "name": "Bird of Paradise",
+    "latinName": "Strelitzia reginae",
+    "light": "Bright light",
+    "water": "Moderate watering",
+    "CareLevel": "Intermediate",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.20.47.png?alt=media&token=41de3bce-9470-4194-8502-2e38fd77c430",
+    "description": "Tropical plant with dramatic banana-like leaves."
+  },
+  {
+    "name": "Sansevieria",
+    "latinName": "Sansevieria trifasciata",
+    "light": "Indirect light",
+    "water": "After soil dries",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.20.24.png?alt=media&token=22b76ad1-5def-40e1-afae-59234850cc0b",
+    "description": "Extremely hardy plant also known as snake plant."
+  },
+  {
+    "name": "Watermelon Peperomia",
+    "latinName": "Peperomia argyreia",
+    "light": "Low to bright indirect light",
+    "water": "When soil is half dry",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.19.56.png?alt=media&token=d2f1236e-c508-4d30-8bbc-1d9d05db61ba",
+    "description": "Leaf pattern resembles watermelon rind."
+  },
+  {
+    "name": "Begonia Maculata",
+    "latinName": "Begonia maculata",
+    "light": "Indirect or fluorescent light",
+    "water": "When soil dries",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.19.14.png?alt=media&token=3b995a4d-f707-4a0b-a6a8-6fd8b1922383",
+    "description": "Polka-dotted leaves with strong contrast."
+  },
+  {
+    "name": "Air Plants",
+    "latinName": "Tillandsia spp.",
+    "light": "Bright indirect light",
+    "water": "Weekly soaking",
+    "CareLevel": "Intermediate",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.18.43.png?alt=media&token=826b79cb-1542-43e0-84b7-d547d0187487",
+    "description": "Soil-free plants ideal for terrariums."
+  },
+  {
+    "name": "Peace Lily",
+    "latinName": "Spathiphyllum",
+    "light": "Medium to low light",
+    "water": "When soil dries",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.18.20.png?alt=media&token=b767fcdb-6e9c-469b-87a1-a020f2ea3c05",
+    "description": "Elegant plant with white blooms and air-purifying qualities."
+  },
+  {
+    "name": "Split Leaf Philodendron",
+    "latinName": "Philodendron bipinnatifidum",
+    "light": "Bright indirect light",
+    "water": "Consistent moisture",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.17.52.png?alt=media&token=a1dc83b4-a9c1-4e4f-8154-9ac46b782052",
+    "description": "Large spreading leaves ideal for open spaces."
+  },
+  {
+    "name": "Plumosus Asparagus Fern",
+    "latinName": "Asparagus setaceus",
+    "light": "Indirect light",
+    "water": "Regular watering",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.17.27.png?alt=media&token=caa5b4c0-593b-4e4c-a652-e95b065c2ae9",
+    "description": "Soft feathery foliage suitable for hanging baskets."
+  },
+  {
+    "name": "Jade Plant",
+    "latinName": "Crassula ovata",
+    "light": "Medium light",
+    "water": "After soil dries",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.17.01.png?alt=media&token=820c9bfc-4269-4c8f-8fc0-33bff0919713",
+    "description": "Succulent with thick glossy leaves and red edges."
+  },
+  {
+    "name": "Aloe Vera",
+    "latinName": "Aloe barbadensis miller",
+    "light": "Bright sunlight",
+    "water": "Once a week",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.16.17.png?alt=media&token=cf269d45-b607-4a8d-a166-32565e4ffcc5",
+    "description": "Medicinal succulent with fleshy spiked leaves."
+  },
+  {
+    "name": "Spider Plant",
+    "latinName": "Chlorophytum comosum",
+    "light": "Bright indirect light",
+    "water": "Occasional watering",
+    "CareLevel": "Easy",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/drplant-9aa65.firebasestorage.app/o/Screenshot%202025-12-21%20at%2003.15.16.png?alt=media&token=baf7d354-abcf-49f1-aad2-5ff8b9429db5",
+    "description": "One of the easiest indoor plants with arching striped leaves."
+  }
+]
